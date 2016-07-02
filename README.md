@@ -1,8 +1,8 @@
 # CH341SER_LINUX
-nodemcu esp8266 serial linux driver with latest kernel support 
+### nodemcu esp8266 serial linux driver with latest kernel support 
 ## ChangeLog 
-// 1.0 - 1.1   modified to solve transmition between ch341 and ch341
-// 1.1 - 1.2   Support high Linux kernel
+ * 1.0 - 1.1   modified to solve transmition between ch341 and ch341
+ * 1.1 - 1.2   Support high Linux kernel
 ## Instructions
 
 ## Note: 
@@ -13,11 +13,11 @@ nodemcu esp8266 serial linux driver with latest kernel support
 ## Usage:
 	(load or unload linux driver of CH34x)
 	//compile 
-	#make
+	make
 	//load ch34x chips driver
-	#make load
+	make load
 	//unload ch34x chips driver
-	#make unload
+	make unload
 
 
 The updated code is taken from here 
