@@ -7,7 +7,7 @@
 
 ## Note: 
       1.Please run followed executable programs as root privilege
-      2.Current Driver support versions of linux kernel range from 2.6.25 to 3.13.x
+      2.Current Driver support versions of linux kernel range from 2.6.25 to 4.4.x
       3.Current Driver support 32bits and 64bits linux systems
 
 ## Usage:
