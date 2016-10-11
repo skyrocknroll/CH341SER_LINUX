@@ -13,11 +13,11 @@
 ## Usage:
 	(load or unload linux driver of CH34x)
 	//compile 
-	make
+	sudo make
 	//load ch34x chips driver
-	make load
+	sudo make load
 	//unload ch34x chips driver
-	make unload
+	sudo make unload
 
 
 The updated code is taken from here 
